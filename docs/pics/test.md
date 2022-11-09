@@ -2,7 +2,9 @@ Learn more about the services used in this mission:
 
 **SAPUI5**
 
-![](UI5.png)
+![](https://raw.githubusercontent.com/SAP-samples/btp-task-center-integration/main/docs/pics/UI5.png)
+![](/docs/pics/UI5.png)
+![](../pics/UI5.png)
 
 SAPUI5 is a JavaScript application framework designed to build cross-platform, responsive, enterprise-ready applications.
 
